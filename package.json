@@ -1,0 +1,20 @@
+{
+  "name": "debian",
+  "version": "0.0.0",
+  "description": "Various Debian specific functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/chipzz/node-debian"
+  },
+  "keywords": [
+    "debian"
+  ],
+  "author": "Jan Van Buggenhout <chipzz+npm@chipzz.be>",
+  "bugs": {
+    "url": "https://github.com/chipzz/node-debian/issues"
+  }
+}
