@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "Various Debian specific functionality",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,6 +17,7 @@
     "debian"
   ],
   "author": "Jan Van Buggenhout <chipzz+npm@chipzz.be>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/chipzz/node-debian/issues"
   }
